@@ -1,2 +1,1 @@
-# sample-nodejs
-sample nodejs
+# Sample NodeJS Application
